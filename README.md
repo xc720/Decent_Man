@@ -24,9 +24,6 @@
 
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:xc720@ic.ac.uk'>gianluca.fenocchi@imperial.ac.uk</a>
+  📫 How to reach me: <a href='mailto:xc720@ic.ac.uk'>xc720@ic.ac.uk</a>
 </p>
 
-<p align='center'>
-  <img src="https://komarev.com/ghpvc/?username=spacebod&color=orange">
-</p>
