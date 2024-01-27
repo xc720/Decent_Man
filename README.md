@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  3rd Year EIE Student at Imperial College London
+  4th Year EIE Student at Imperial College London
 </p>
 
 
