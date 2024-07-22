@@ -19,6 +19,6 @@
 
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:caixuan1201@outlook.com'>xc720@ic.ac.uk</a>
+  📫 How to reach me: <a href='mailto:caixuan1201@outlook.com'>caixuan1201@outlook.com</a>
 </p>
 
